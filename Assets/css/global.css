@@ -4,7 +4,7 @@
 }
 @font-face {
   font-family: "Neue Machina";
-  src: url("/Assets/fonts/NeueMachina-Regular.otf");
+  src: url("../Assets/fonts/NeueMachina-Regular.otf");
 }
 body {
   background-image:linear-gradient(135deg, #0F2027, #302B63, #6C1E77);
