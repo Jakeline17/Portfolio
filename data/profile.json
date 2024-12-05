@@ -1,0 +1,100 @@
+{
+  "name": "Jaqueline Souza Vidal",
+  "photo": "Assets/img/foto perfil.png",
+  "job": "Front end Developer Jr",
+  "location": "São José dos Pinhais - PR",
+  "phone": "(41) 984940848",
+  "email": "Jaquelinesouza905@gmail.com ",
+  "linkedin":"https://www.linkedin.com/in/jaqueline-souza95/",
+  "github":"https://github.com/Jakeline17",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "HTML",
+        "logo": "Assets/img/icons/skills/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "Assets/img/icons/skills/css.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "Assets/img/icons/skills/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "Assets/img/icons/skills/react.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "Assets/img/icons/skills/github.png"
+      }
+      
+    ],
+    "softSkills": [
+      "Facilidade de Aprendizado",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "education": [
+    {
+      "title": "Análise e Desenvolvimento de Sistemas, Unicesumar",
+      "period": "Junho 2023 - Dezembro 2025",
+      "type":"Graduação"
+    },
+    {
+      "title": "Formação JavaScript Web Developer, Dio",
+      "period": "Outubro 2023 - Dezembro 2024",
+      "type": "Curso 39hrs"
+    },
+    {
+    "title": "Formação CSS Web Developer, Dio",
+      "period": "Julho 2023 - Setembro 2024",
+      "type": "Curso 43hrs"
+  },
+  {
+    "title": "Formação HTML Web Developer, Dio",
+      "period": "Maio 2023 - Julho 2024",
+      "type": "Curso 21hrs"
+  }
+
+  ],
+  "languages": [
+    "Português BR (Nativo)",
+    "Inglês (Intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Projeto Curso JavaScript Dio Jogo Detona Ralph",
+      "url": "https://github.com/Jakeline17/JogoDetonaRalph.git",
+      "url2":"https://jakeline17.github.io/JogoDetonaRalph/",
+      "github": true
+    },
+    {
+      "name": "Projeto Recriando Wikipedia, Inspirado Na Série Todo Mundo Odeia o Chris  ",
+      "url":"https://github.com/Jakeline17/wikipedia-moderno.git",
+      "url2":"https://jakeline17.github.io/wikipedia-moderno/",
+      "github": true
+    },
+    {
+      "name": "Desafio Trilha CSS Dio, Clone da Página do Youtube",
+      "url": "https://github.com/Jakeline17/Desafio_Grid_Layout.git",
+      "url2":"https://jakeline17.github.io/Desafio_Grid_Layout/",
+      "github": true
+    }
+  ],
+  "Experience": [
+    {
+      "name": "Supervisora de Loja /Fesk Utilidades Domésticas Ltda",
+      "period": "Novembro 2017 - Maio 2024",
+      "description": "Gestão de Equipe, Atendimento ao Cliente e Operações da loja"
+    },
+    {
+      "name": "Operadora de Caixa / Condor Super Center Ltda",
+      "period": "Janeiro 2013 - Novembro 2017",
+      "description": "Responsável pela abertura e fechamento de caixa"
+    }
+  ]
+}
