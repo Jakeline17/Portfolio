@@ -45,18 +45,23 @@
       "type":"Graduação"
     },
     {
+      "title": "Formação React Developer, Dio",
+      "period": "Dezembro 2024 - Fevereiro 2025",
+      "type": "Curso 34hrs"
+    },
+    {
       "title": "Formação JavaScript Web Developer, Dio",
-      "period": "Outubro 2023 - Dezembro 2024",
+      "period": "Setembro 2024 - Dezembro 2024",
       "type": "Curso 39hrs"
     },
     {
     "title": "Formação CSS Web Developer, Dio",
-      "period": "Julho 2023 - Setembro 2024",
+      "period": "Julho 2024 - Setembro 2024",
       "type": "Curso 43hrs"
   },
   {
     "title": "Formação HTML Web Developer, Dio",
-      "period": "Maio 2023 - Julho 2024",
+      "period": "Maio 2024 - Julho 2024",
       "type": "Curso 21hrs"
   }
 
@@ -66,6 +71,12 @@
     "Inglês (Intermediário)"
   ],
   "portfolio": [
+    {
+      "name": "Projeto Calculadora em React",
+      "url": "https://github.com/Jakeline17/Calculadora-React.git",
+      "url2":" https://jakeline17.github.io/Calculadora-React/",
+      "github": true
+    },
     {
       "name": "Projeto Curso JavaScript Dio Jogo Detona Ralph",
       "url": "https://github.com/Jakeline17/JogoDetonaRalph.git",
