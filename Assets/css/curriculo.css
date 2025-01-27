@@ -1,0 +1,29 @@
+
+.curriculo button{
+    border-radius:15px;
+    width: auto;
+    padding:10px 10px;
+    background-color: transparent;
+    border: 2px solid #a0649c;
+    
+    
+}
+.botao-download{
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 12px;
+    
+}
+.curriculo button a{
+    text-decoration: none;
+}
+.botao-download i {
+    margin-right: 8px;
+  }
+.curriculo button:hover{
+    cursor: pointer;
+    border: 2px solid #a0649c;
+    font-weight: bold;
+    transition:ease-in 1s;
+   
+}

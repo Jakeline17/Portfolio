@@ -26,8 +26,16 @@
         "logo": "Assets/img/icons/skills/react.png"
       },
       {
+        "name": "Git",
+        "logo": "Assets/img/icons/skills/git.png"
+      },
+      {
         "name": "GitHub",
         "logo": "Assets/img/icons/skills/github.png"
+      },
+      {
+        "name": "Vs code",
+        "logo": "Assets/img/icons/skills/vscode.png"
       }
       
     ],
@@ -72,9 +80,21 @@
   ],
   "portfolio": [
     {
+      "name": "Projeto Página de Login com React + Vite",
+      "url": "https://github.com/Jakeline17/pagina-Login.git",
+      "url2":"https://jakeline17.github.io/pagina-Login/",
+      "github": true
+    },
+    {
       "name": "Projeto Calculadora em React",
       "url": "https://github.com/Jakeline17/Calculadora-React.git",
       "url2":" https://jakeline17.github.io/Calculadora-React/",
+      "github": true
+    },
+    {
+      "name": "Projeto Curso JavaScript Clima Tempo OpenWeather API",
+      "url": "https://github.com/Jakeline17/Clima_Tempo.git",
+      "url2":"https://jakeline17.github.io/Clima_Tempo/",
       "github": true
     },
     {

@@ -4,20 +4,14 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portifólio Jaqueline Souza</title>
+    
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"
       integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w=="
       crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
-      rel="stylesheet"
-    />
-
+      referrerpolicy="no-referrer" />
+    <!-- styles -->
     <link rel="stylesheet" href="Assets/css/global.css" />
     <link rel="stylesheet" href="Assets/css/header.css" />
     <link rel="stylesheet" href="Assets/css/acordeon.css" />
@@ -26,6 +20,21 @@
     <link rel="stylesheet" href="Assets/css/experience.css" />
     <link rel="stylesheet" href="Assets/css/skills.css" />
     <link rel="stylesheet" href="Assets/css/education.css" />
+    <link rel="stylesheet" href="Assets/css/curriculo.css" />
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+      rel="stylesheet"  />
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+      <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Parisienne&display=swap"
+      rel="stylesheet"
+    />
   </head>
 
   <body>
@@ -50,14 +59,10 @@
             <a href="tel:(41)98494-0848" id="profile.phone">Loading...</a>
           </p>
           <p class="email">
-            <a href="mailto:ex@mail.com" id="profile.email"
-              >Loading...</a
-            >
+            <a href="mailto:ex@mail.com" id="profile.email">Loading...</a>
           </p>
           <p class="linkedin">
-            <a href="" id="profile.linkedin"
-              >Loading...</a
-            >
+            <a href="" id="profile.linkedin">Loading...</a>
           </p>
           <p class="github">
             <a href="https://github.com/Jakeline17" id="profile.github"
@@ -93,8 +98,7 @@
         </button>
 
         <div class="content">
-          <ul id="profile.education" class="education">
-          </ul>
+          <ul id="profile.education" class="education"></ul>
         </div>
       </section>
       <section class="acordeon">
@@ -114,8 +118,30 @@
         </button>
 
         <div class="content">
-          <ul id="profile.portfolio" class="portfolio">
-          </ul>
+          <ul id="profile.portfolio" class="portfolio"></ul>
+        </div>
+      </section>
+      <section class="acordeon">
+        <button class="trigger" type="button">
+          <h2>Curriculo</h2>
+        </button>
+
+        <div class="content">
+          <div class="curriculo">
+           
+            <button>
+              <a
+                href="./Assets/curriculo/curriculo_Jaqueline_souza_vidal.pdf"
+                download
+                class="botao-download"
+              >
+              <i class="fas fa-download"></i> Baixar Currículo
+              </a>
+              
+              </a>
+            </button>
+           
+          </div>
         </div>
       </section>
       <section class="acordeon">
